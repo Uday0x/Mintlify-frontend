@@ -3,6 +3,8 @@
 
 link of the website 
 -https://mintlify-frontend.vercel.app/
+
+
 A modern SaaS landing page inspired by the Mintlify website.  
 Built using **HTML + CSS** to practice real-world frontend layout, spacing, and UI structure.
 
